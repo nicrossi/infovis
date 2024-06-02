@@ -1,6 +1,8 @@
 # Information visualization
-This is a repository for the course Information Visualization at
-Buenos Aires Institute of Technology (ITBA). <br>
+[InfoVis](https://www.github.com/nicrossi/infovis) 
+is a repository for the course Information Visualization at
+Buenos Aires Institute of Technology (ITBA).
+
 Taught by [Prof. Ariel Aizemberg](https://github.com/aaizemberg/).
 
 Check out some of my work from:
